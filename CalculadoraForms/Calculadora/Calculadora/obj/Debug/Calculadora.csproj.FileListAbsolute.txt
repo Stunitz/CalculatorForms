@@ -1,0 +1,16 @@
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.frmCalculadora.resources
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\bin\Debug\Calculadora.exe.manifest
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\bin\Debug\Calculadora.application
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.exe.manifest
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.application
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Interop.SpeechLib.dll
+C:\Users\rafas\Desktop\Projeto C# - Calculadora - Copia\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.ResolveComReference.cache
